@@ -9,8 +9,10 @@ chmod +x install.sh
 
 ./install.sh
 
-python3 nmap.py
+pip3 install -r requirements.txt
 
-use nano and edit "ns.scan()" with the ip address wanted then press Ctrl-x
+python3 nsnmap.py
+
+use nano and edit "ns.scan('')" with the ip address wanted then press Ctrl-x
 
 note: run as root!
