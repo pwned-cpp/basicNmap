@@ -7,7 +7,7 @@ git clone https://github.com/pwned-cpp/basicNmap
 
 chmod +x install.sh
 
-pip3 install -r requirements.txt
+./install.sh
 
 python3 nmap.py
 
