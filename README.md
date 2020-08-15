@@ -1,0 +1,2 @@
+# basicNmap
+basic nmap script
