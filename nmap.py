@@ -4,7 +4,7 @@ ns = nmap.PortScanner()
 
 print(ns.nmap_version())
 
-ns.scan('',"1-1024')
+ns.scan('','1-1024')
 
 print(ns.scanstats())
 
