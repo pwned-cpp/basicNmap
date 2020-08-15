@@ -10,4 +10,4 @@ print(ns.scaninfo())
 
 print(ns.csv())
 
-input('completed! press enter to exit")
+input("completed! press enter to exit")
