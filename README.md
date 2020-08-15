@@ -5,6 +5,8 @@ basic nmap script
 
 git clone https://github.com/pwned-cpp/basicNmap
 
+cd basicNmap
+
 chmod +x install.sh
 
 ./install.sh
