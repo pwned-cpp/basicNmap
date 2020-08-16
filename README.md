@@ -1,7 +1,7 @@
 # basicNmap
 basic nmap script
 
-# Usage
+## Usage
 
 git clone https://github.com/pwned-cpp/basicNmap
 
